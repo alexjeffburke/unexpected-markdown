@@ -1,12 +1,12 @@
 {
-  "name": "unexpected-markdown",
+  "name": "@alexjeffburke/unexpected-markdown",
   "version": "5.0.1",
   "description": "A markdown parser that evaluates examples and highligh syntax using unexpected",
   "main": "./lib/UnexpectedMarkdown.js",
-  "bugs": "https://github.com/unexpectedjs/unexpected-markdown/issues",
+  "bugs": "https://github.com/alexjeffburke/unexpected-markdown/issues",
   "repository": {
     "type": "git",
-    "url": "https://github.com/unexpectedjs/unexpected-markdown"
+    "url": "https://github.com/alexjeffburke/unexpected-markdown"
   },
   "keywords": [
     "markdown",
